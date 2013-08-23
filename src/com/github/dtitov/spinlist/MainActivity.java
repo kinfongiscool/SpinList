@@ -45,7 +45,9 @@ public class MainActivity extends ListActivity {
         users.add("theraveonettes");
         users.add("theraveonettes");
         users.add("theraveonettes");
-
+        users.add("kalu.v.ude");
+        users.add("justintimberlake");
+        users.add("kin.fong.is.cool");
 
 		/**
 		 * Create and initialize our own adapter.
